@@ -1,3 +1,3 @@
 # Heavid
 Software Engineering Project
-#welcome group
+#welcome Luke, Vanessa, KC, and Misheel
